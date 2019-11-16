@@ -1,0 +1,4 @@
+INT_SIZE = 4
+BYTE_ORDER = "big"
+ENCODING = "utf-8"
+SERVER_PORT = 30000
